@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'BRISTON';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/Briston-1jq70.woff') format('woff');
+}
+
+h1 {
+    font-family: 'BRISTON';
+    font-weight: 200;
+    color: #0ccac4;
+}
+
+.scroll-container::-webkit-scrollbar {
+    display: none;
+    /* For Chrome, Safari and Opera */
+}
