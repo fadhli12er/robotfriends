@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fadhli12er/robotfriends.git/static/css/main.4dc71266.css",
+    "main.js": "/fadhli12er/robotfriends.git/static/js/main.2b2ef3cd.js",
+    "static/js/453.4cd3d159.chunk.js": "/fadhli12er/robotfriends.git/static/js/453.4cd3d159.chunk.js",
+    "static/media/Briston-1jq70.woff": "/fadhli12er/robotfriends.git/static/media/Briston-1jq70.dbacc0f1aadb292c6d0f.woff",
+    "index.html": "/fadhli12er/robotfriends.git/index.html",
+    "main.4dc71266.css.map": "/fadhli12er/robotfriends.git/static/css/main.4dc71266.css.map",
+    "main.2b2ef3cd.js.map": "/fadhli12er/robotfriends.git/static/js/main.2b2ef3cd.js.map",
+    "453.4cd3d159.chunk.js.map": "/fadhli12er/robotfriends.git/static/js/453.4cd3d159.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4dc71266.css",
+    "static/js/main.2b2ef3cd.js"
+  ]
+}
