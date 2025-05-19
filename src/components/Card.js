@@ -12,7 +12,7 @@ const truncate = (string, maxLength) => {
 const Card = ({ username, email, id }) => {
     const [counter, setCounter] = useState(0);
     const handleClick = () => {
-        setCounter(counter + 20);
+        setCounter(counter + 1);
     }
 
     return (
