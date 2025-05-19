@@ -3,6 +3,7 @@ import SearchBox from "../components/SearchBox"
 import CardList from "../components/CardList"
 import './App.css'
 import Scroll from '../components/Scroll'
+import ErrorBoundry from "../components/ErrorBoundry"
 
 const App = () => {
     const [searchField, setSearch] = useState('');
@@ -34,7 +35,9 @@ const App = () => {
                     <h1 className='f1'>ROBOFRIENDS</h1>
                     <SearchBox searchField={searchField} setSearch={setSearch} />
                     <Scroll>
-                        <CardList filteredRobo={filteredRobo} />
+                        <ErrorBoundry>
+                            <CardList filteredRobo={filteredRobo} />
+                        </ErrorBoundry>
                     </Scroll>
                 </div>
             </>
