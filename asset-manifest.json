@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/robotfriends/static/css/main.f821c87e.css",
-    "main.js": "/robotfriends/static/js/main.2615cc65.js",
+    "main.js": "/robotfriends/static/js/main.f8868647.js",
     "static/js/453.4cd3d159.chunk.js": "/robotfriends/static/js/453.4cd3d159.chunk.js",
     "static/media/Briston-1jq70.woff": "/robotfriends/static/media/Briston-1jq70.dbacc0f1aadb292c6d0f.woff",
     "index.html": "/robotfriends/index.html",
     "main.f821c87e.css.map": "/robotfriends/static/css/main.f821c87e.css.map",
-    "main.2615cc65.js.map": "/robotfriends/static/js/main.2615cc65.js.map",
+    "main.f8868647.js.map": "/robotfriends/static/js/main.f8868647.js.map",
     "453.4cd3d159.chunk.js.map": "/robotfriends/static/js/453.4cd3d159.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f821c87e.css",
-    "static/js/main.2615cc65.js"
+    "static/js/main.f8868647.js"
   ]
 }
